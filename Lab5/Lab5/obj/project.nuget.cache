@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "qzrXiNbnUtX5heqBjW34mgEG3XdvNPdwpUbnJ4OCzMwiUA9eG2MKymPDI1aj+x8wU0QDXryzPnyEcGgYn8N92Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HAUNAG\\Documents\\Lab5\\Lab5\\Lab5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HAUNAG\\.nuget\\packages\\microsoft.data.sqlite\\6.0.10\\microsoft.data.sqlite.6.0.10.nupkg.sha512",
+    "C:\\Users\\HAUNAG\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.10\\microsoft.data.sqlite.core.6.0.10.nupkg.sha512",
+    "C:\\Users\\HAUNAG\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\HAUNAG\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\HAUNAG\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\HAUNAG\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\HAUNAG\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
